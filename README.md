@@ -1,6 +1,6 @@
 # Simple Weather App using OpenWeatherMap API
 ## Description
-A really simple application to check the specific weather from any given city.
+A really simple application to check the weather from any given city.
 Made this to learn how to fetch an api.
 
 ## Usage
