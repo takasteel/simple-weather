@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 60%;
+  margin-top: 5rem;
+}
+
+.container img {
+  width: 128px;
+  height: 128px;
+}
+
+.container p {
+  font-size: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.container input {
+  font-size: 1.5rem;
+}
+
+.container button {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+}
